@@ -10,7 +10,7 @@ Previously, I received my B.S in Microbiology from CSU while researching the [ne
 I am also very passionate about all things entomology 🐝🦗🦋🕷️
 
 ### Useful Links
-[Computational Resources](https://github.com/ento293/my-resources)
+[Computational Examples](https://github.com/ento293/my-resources/tree/main/examples)
 
 [Interesting: Data Visualization](https://github.com/ento293/CM515-course-2024/tree/main/modules/05_Visualization)
 
